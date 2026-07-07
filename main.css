@@ -62,6 +62,11 @@ a i {
   display: flex;
   align-items: center;
   color: #9093a6;
+  gap: 4px;
+  font-family: var(--Martel-sans);
+  font-weight: 700;
+  font-size: 16px;
+  
 }
 
 .cart__button {
