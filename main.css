@@ -713,7 +713,7 @@ nav .sidebar .lang_change select {
   font-weight: 300;
 }
 
-.footer_bottom .rights a {
+.footer_bottom .rights a, p {
   font-weight: 600;
   text-decoration: none;
   color: #fff;
