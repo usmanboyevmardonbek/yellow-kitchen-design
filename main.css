@@ -713,10 +713,15 @@ nav .sidebar .lang_change select {
   font-weight: 300;
 }
 
-.footer_bottom .rights a, p {
+.footer_bottom .rights a{
   font-weight: 600;
   text-decoration: none;
   color: #fff;
+  font-family: var(--Martel-sans);
+}
+
+.footer_bottom .rights a,
+.footer_bottom .rights p {
   font-family: var(--Martel-sans);
 }
 
