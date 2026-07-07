@@ -665,6 +665,7 @@ nav .sidebar .lang_change select {
 .footer_body .footer_details .footer_details_column h2 {
   font-size: 24px;
   font-weight: 600;
+  font-family: var(--Poppins);
 }
 
 .footer_body .footer_details .footer_details_column {
@@ -682,6 +683,7 @@ nav .sidebar .lang_change select {
   text-decoration: none;
   color: #d4d7e5;
   font-size: 16px;
+  font-family: var(--Martel-sans)
 }
 
 .footer_bottom {
