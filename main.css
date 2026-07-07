@@ -717,6 +717,7 @@ nav .sidebar .lang_change select {
   font-weight: 600;
   text-decoration: none;
   color: #fff;
+  font-family: var(--Martel-sans);
 }
 
 
